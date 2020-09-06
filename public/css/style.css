@@ -1,0 +1,137 @@
+form .avatar{
+    
+    margin-left: 30%;
+    margin-bottom:4%; 
+    width:120px;
+    height:135px;
+    border-radius:900px;
+    overflow:hidden;
+    
+    
+}
+
+
+.navbar .container-avatar{
+    width:38px;    
+    height:38px;     
+    border-radius:900px; 
+    margin-left:40px; 
+    overflow:hidden; 
+}
+
+.card-header .container-avatar
+{
+    width:38px;    
+    height:38px;     
+    border-radius:900px; 
+    margin-left:5px; 
+    overflow:hidden; 
+}
+
+.navbar .container-avatar img,
+.pub_image .container-avatar img
+{
+    height:100%;    
+}
+
+.pub_image{
+    margin-bottom: 40px;
+}
+
+.pub_image .container-avatar
+{
+    float:left;
+    margin-right:15px; 
+}
+
+.pub_image .data-user
+{
+    font-weight: bold;
+    line-height:35px; 
+}
+
+.pub_image .data-user a
+{
+ color:#444;
+}
+
+
+
+.card-header{
+   font-weight: bold;
+   font-weight: 900;
+}
+
+
+
+.pub_image .nickname{
+    color:gray;
+}
+
+.pub_image .card-body
+{
+    padding: 0px;
+}
+
+.pub_image .description{
+    padding:20px;
+    padding-bottom:0px; 
+}
+
+.image-details
+{
+    max-height:500px;
+}
+
+
+.image-container img
+{
+    width:100%; 
+}
+.pub_image .description{
+    padding:20px;
+    padding-bottom: 0px;
+    
+}
+
+
+
+
+.pub_image .btn-comments{
+    margin:10px;
+    margin-top:0px;
+    margin-left: 0px;
+    
+}
+
+
+
+.likes{
+    float:left;
+padding:20px;
+padding-bottom:0;
+
+padding-right: 15px;
+}
+
+.likes img{
+ width:25px;
+}
+
+.pub_image .comments{
+    padding:20px;
+    margin-left: 10px;
+    overflow: hidden;
+    padding-top: 10px;
+}
+
+
+
+/*
+
+
+/*width tamaño img
+height altura img
+overflow me oculte lo que salga de la imagen
+*/
+
